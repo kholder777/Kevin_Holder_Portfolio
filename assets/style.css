@@ -4,8 +4,8 @@
 }
 
 
-.card {
-    justify-content: space-evenly;
+#tigerking {
+    flex-direction: row-reverse;
     margin-right: auto;
     margin-left: auto;
     padding-right: auto;
