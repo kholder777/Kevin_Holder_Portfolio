@@ -4,9 +4,10 @@
 }
 
 
-/* .container {
+.card {
+    justify-content: space-evenly;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 15px;
-    padding-left: 15px;
-    width: 100%; */
+    padding-right: auto;
+    padding-left: auto;
+    width: 100%;
