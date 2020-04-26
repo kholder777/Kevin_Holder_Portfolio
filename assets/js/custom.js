@@ -1,3 +1,7 @@
+$navbar - brand {
+
+}
+
 // $grid - columns: 12;
 // $grid - gutter - width: 30 px;
 

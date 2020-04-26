@@ -1,6 +1,12 @@
-/* .container {
+.fixed-top {
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+
+.container {
     margin-right: auto;
     margin-left: auto;
     padding-right: 15px;
     padding-left: 15px;
-    width: 100%; */
+    width: 100%;
