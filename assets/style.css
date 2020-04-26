@@ -13,6 +13,8 @@ body {
 
 #tigerking {
     flex-direction: row-reverse;
+    justify-content: space-between;
+
     margin-right: auto;
     margin-left: auto;
     padding-right: auto;
