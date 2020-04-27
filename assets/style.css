@@ -11,8 +11,8 @@ body {
     width: 100%;
 }
 
-.container {
-    margin: 0%;
+.carolbaskin {
+    margin: auto;
 }
 
 #tigerking {
@@ -23,3 +23,8 @@ body {
     padding-right: auto;
     padding-left: auto;
     width: 100%;
+}
+
+#hal {
+    justify-content: flex-start;
+}
