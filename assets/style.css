@@ -11,8 +11,8 @@ body {
     width: 100%;
 }
 
-div.col.carol {
-    justify-content: flex-start;
+.container {
+    margin: 0%;
 }
 
 #tigerking {
