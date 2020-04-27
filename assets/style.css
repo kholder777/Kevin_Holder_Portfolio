@@ -17,14 +17,9 @@ body {
 
 #tigerking {
     flex-direction: row-reverse;
-    justify-content: space-around;
     margin-right: auto;
     margin-left: auto;
     padding-right: auto;
     padding-left: auto;
     width: 100%;
-}
-
-#hal {
-    justify-content: flex-start;
 }
