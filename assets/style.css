@@ -1,25 +1,42 @@
-.fixed-top {
-    justify-content: flex-start;
-    align-items: flex-start;
+ .fixed-top {
+     justify-content: flex-start;
+ }
+
+
+ body {
+     margin-right: 0;
+     margin-left: 0;
+     padding-right: 0;
+     padding-left: 0;
+     width: 100%;
+ }
+
+ /*
+.card-img-top {
+    width: 23rem;
+    height: 23rem;
 }
 
-body {
-    margin-right: 0;
-    margin-left: 0;
-    padding-right: 0;
-    padding-left: 0;
+.card-body12 {
     width: 100%;
+    justify-content: center;
 }
 
-.carolbaskin {
+/* .carolbaskin {
     margin: 0rem;
 }
 
 #tigerking {
     justify-content: space-evenly;
+    flex-direction: row-reverse;
     margin-right: auto;
     margin-left: auto;
     padding-right: auto;
     padding-left: auto;
     width: 100%;
 }
+
+.center12 {
+    margin: auto;
+    width: 50%;
+} */
