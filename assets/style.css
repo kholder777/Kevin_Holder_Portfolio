@@ -11,9 +11,13 @@ body {
     width: 100%;
 }
 
+#carolbaskin {
+    justify-content: space-around;
+}
+
 #tigerking {
     flex-direction: row-reverse;
-    justify-content: flex-start;
+    justify-content: space-around;
 
     margin-right: auto;
     margin-left: auto;
