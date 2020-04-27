@@ -17,9 +17,9 @@ body {
 
 #tigerking {
     flex-direction: row-reverse;
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: auto;
-    padding-left: auto;
+    margin-right: 0em;
+    margin-left: 0em;
+    padding-right: 0em;
+    padding-left: 0em;
     width: 100%;
 }
