@@ -1,5 +1,7 @@
 # myPortfolio
 
+This document was created with a main page that has all the most important information anyone might find on a resume. I have included a few other pages which can be found by clicking on the "Interests" drop-down. Those additional html docs are included for the reader to get to know me, beyond the typical resume information.
+
 Using bootstrap to create a portfolio.
 
 <!-- theme readme -->
