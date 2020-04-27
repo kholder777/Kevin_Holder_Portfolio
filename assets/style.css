@@ -11,7 +11,7 @@ body {
     width: 100%;
 }
 
-#carol {
+div.col.carol {
     justify-content: flex-start;
 }
 
