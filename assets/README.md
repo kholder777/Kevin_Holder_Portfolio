@@ -1,5 +1,9 @@
 # myPortfolio
 
+# [github.com Resume - Kevin_Holder]
+
+[repo](https://github.com/kholder777/Kevin_Holder/)
+[resume](https://kholder777.github.io/Kevin_Holder/)
 This document was created with a main page that has all the most important information anyone might find on a resume. I have included a few other pages which can be found by clicking on the "Interests" drop-down. Those additional html docs are included for the reader to get to know me, beyond the typical resume information.
 
 Using bootstrap to create a portfolio.
