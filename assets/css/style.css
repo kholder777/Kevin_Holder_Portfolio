@@ -1,0 +1,12 @@
+ .fixed-top {
+     justify-content: flex-start;
+ }
+
+ body {
+     margin-right: 0;
+     margin-left: 0;
+     padding-right: 0;
+     padding-left: 0;
+     width: 100%;
+     background-color: rgb(0, 0, 0);
+ }
